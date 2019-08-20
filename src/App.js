@@ -1,14 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './Header';
 import About from './About';
+import Skills from './Skills';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <About></About>    
+      <About></About> 
+      <Skills></Skills>
     </div>
   );
 }
