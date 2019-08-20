@@ -84,7 +84,7 @@ header img{
 #about {
   display: flex;
   align-items: center;
-  background-image: url(./images/london.jpg);
+  background-image: url('./images/london.jpg');
   height: 100vh;
   background-size: cover;
   /* background-repeat: no-repeat; */
